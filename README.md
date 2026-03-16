@@ -1,100 +1,251 @@
-# Voice Transcription & NLP Server
+# 🎙️ Voice Transcription & NLP Server
 
-Python microservice for speech-to-text transcription and NLP analysis, designed for medical context with context-aware patient query handling.
+Python microservice for speech-to-text transcription and NLP analysis, designed for a **medical context** with context-aware patient query handling.
 
-## Features
+---
 
-- Speech recognition using **Vosk**
-- Multilingual support: **French, English, Arabic, Tunisian**
-- Automatic translation to French
-- NLP intent detection
-- Context-aware medical queries
-- REST API using **Flask**
-- Handles patient data, appointments, prescriptions
-- Supports audio and text input
+## 📋 Table of Contents
 
-## API Endpoints
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Vosk Models Setup](#vosk-models-setup)
+- [Configuration](#configuration)
+- [Running the Server](#running-the-server)
+- [API Endpoints](#api-endpoints)
+- [Notes](#notes)
 
-- **POST /transcribe**  
-  Convert audio to text. Accepts `.wav` files.
+---
 
-- **POST /analyze**  
-  Analyze a medical query in text form.
+## ✨ Features
 
-- **POST /analyze/direct**  
-  Directly transcribe and analyze an audio file.
+- 🎤 Speech recognition using **Vosk**
+- 🌍 Multilingual support: **French, English, Arabic, Tunisian**
+- 🔄 Automatic translation to French
+- 🧠 NLP intent detection
+- 🏥 Context-aware medical queries
+- 🌐 REST API using **Flask**
+- 📋 Handles patient data, appointments, and prescriptions
+- 🔊 Supports both audio and text input
 
-## Technologies
+---
 
-- Python 3.x
-- Flask
-- Vosk (speech-to-text)
-- MongoDB (database for patients and records)
-- FFmpeg (audio conversion)
-- SpaCy, DateParser (NLP processing)
+## ⚙️ Prerequisites
 
-## Installation
+Make sure the following tools are installed on your system **before** proceeding with the Python setup:
+
+| Tool | Purpose | Install |
+|------|---------|---------|
+| Python 3.8+ | Runtime | [python.org](https://www.python.org/downloads/) |
+| MongoDB | Database for patients and records | [mongodb.com](https://www.mongodb.com/try/download/community) |
+| FFmpeg | Audio conversion to WAV format | [ffmpeg.org](https://ffmpeg.org/download.html) |
+
+> ⚠️ MongoDB must be **running locally** before starting the server.
+
+---
+
+## 📁 Project Structure
+
+```
+Pf_speech_to_text/
+├── app.py                  # Main Flask application
+├── requirements.txt        # Python dependencies
+├── model_fr/               # Vosk French model
+├── model_en/               # Vosk English model
+├── model_ar/               # Vosk Arabic model
+├── model_tn/               # Vosk Tunisian model
+└── ...
+```
+
+---
+
+## 🚀 Installation
 
 ### 1. Clone the repository
+
 ```bash
 git clone <your-repo-url>
 cd <your-repo-folder>
-2. Create a virtual environment
+```
+
+### 2. Create a virtual environment
+
+```bash
 python -m venv venv
-3. Activate the virtual environment
+```
 
-Windows PowerShell
+### 3. Activate the virtual environment
 
+**Windows PowerShell:**
+```powershell
 .\venv\Scripts\Activate.ps1
+```
 
-Windows CMD
-
+**Windows CMD:**
+```cmd
 .\venv\Scripts\activate.bat
+```
 
-Linux/macOS
-
+**Linux / macOS:**
+```bash
 source venv/bin/activate
-4. Install dependencies
+```
+
+### 4. Install dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-If requirements.txt is not present, install manually:
+If `requirements.txt` is not present, install manually:
 
+```bash
 pip install flask vosk flask-cors pymongo spacy dateparser
-Vosk Models
+```
 
-The Vosk models are not included due to their size (~50MB+ each).
-You need to download and place them in the project directory:
+---
 
-French
-vosk-model-small-fr-0.22
+## 🧩 Vosk Models Setup
 
-Unzip to: Pf_speech_to_text/model_fr
+The Vosk models are **not included** in this repository due to their size (~50MB+ each).  
+Download them from: **[https://alphacephei.com/vosk/models](https://alphacephei.com/vosk/models)**
 
-English
-vosk-model-small-en-us-0.22
+| Language | Model Name | Destination Folder |
+|----------|-----------|-------------------|
+| 🇫🇷 French | `vosk-model-small-fr-0.22` | `Pf_speech_to_text/model_fr/` |
+| 🇬🇧 English | `vosk-model-small-en-us-0.22` | `Pf_speech_to_text/model_en/` |
+| 🇸🇦 Arabic | appropriate arabic model | `Pf_speech_to_text/model_ar/` |
+| 🇹🇳 Tunisian | appropriate tunisian model | `Pf_speech_to_text/model_tn/` |
 
-Unzip to: Pf_speech_to_text/model_en
+After unzipping, each model folder should contain:
 
-Arabic / Tunisian
-Download the appropriate model and unzip to:
-Pf_speech_to_text/model_ar
-Pf_speech_to_text/model_tn
+```
+model_fr/
+├── am/
+│   └── final.mdl
+├── conf/
+├── graph/
+├── ivector/
+└── ...
+```
 
-Make sure the folders contain am/final.mdl and the subfolders (conf, graph, ivector, etc.) for Vosk to load the model correctly.
+> ✅ Vosk requires the `am/final.mdl` file and the subfolders (`conf`, `graph`, `ivector`, etc.) to load correctly.
 
-Running the Server
+---
+
+## 🔧 Configuration
+
+Make sure MongoDB is running locally. By default, the server connects to:
+
+```
+mongodb://localhost:27017/
+```
+
+If needed, update the MongoDB URI and database name directly in `app.py` or via environment variables (`.env` file support recommended for production).
+
+---
+
+## ▶️ Running the Server
+
+```bash
 python app.py
+```
 
-Server runs on http://localhost:8100
+The server will start on:
 
-Handles speech and text requests for NLP analysis.
+```
+http://localhost:8100
+```
 
-Notes
+---
 
-Requires MongoDB running locally with patient data.
+## 📡 API Endpoints
 
-Audio input must be .wav and will be converted to proper format automatically using FFmpeg.
+### `POST /transcribe`
 
-Context-aware: the server can detect unknown patients and suggest creating them.
+Convert an audio file to text.
 
-Supports translation for Tunisian/Arabic and English inputs into French.
+- **Input:** `.wav` audio file (multipart/form-data)
+- **Output:** Transcribed text in JSON
+
+```bash
+curl -X POST http://localhost:8100/transcribe \
+  -F "audio=@your_audio_file.wav"
+```
+
+**Response:**
+```json
+{
+  "transcription": "bonjour je voudrais prendre un rendez-vous"
+}
+```
+
+---
+
+### `POST /analyze`
+
+Analyze a medical query in text form.
+
+- **Input:** JSON body with text
+- **Output:** Detected intent and extracted entities
+
+```bash
+curl -X POST http://localhost:8100/analyze \
+  -H "Content-Type: application/json" \
+  -d '{"text": "je voudrais voir mes ordonnances"}'
+```
+
+**Response:**
+```json
+{
+  "intent": "get_prescriptions",
+  "entities": { ... }
+}
+```
+
+---
+
+### `POST /analyze/direct`
+
+Directly transcribe and analyze an audio file in one step.
+
+- **Input:** `.wav` audio file (multipart/form-data)
+- **Output:** Transcription + intent analysis
+
+```bash
+curl -X POST http://localhost:8100/analyze/direct \
+  -F "audio=@your_audio_file.wav"
+```
+
+**Response:**
+```json
+{
+  "transcription": "...",
+  "intent": "...",
+  "entities": { ... }
+}
+```
+
+---
+
+## 🛠️ Technologies
+
+| Technology | Role |
+|-----------|------|
+| Python 3.x | Core language |
+| Flask | REST API framework |
+| Vosk | Offline speech-to-text engine |
+| MongoDB | Patient and records database |
+| FFmpeg | Audio conversion and preprocessing |
+| SpaCy | NLP processing |
+| DateParser | Date extraction from text |
+
+---
+
+## 📝 Notes
+
+- 📂 Audio input must be `.wav` format — FFmpeg handles conversion automatically.
+- 🏥 The server detects unknown patients and can suggest creating a new record.
+- 🌐 Tunisian/Arabic and English inputs are automatically translated to French before NLP analysis.
+- 🔌 MongoDB must be running locally with patient data loaded before starting the server.
