@@ -1,0 +1,740 @@
+أعطيني|donne-moi
+اعطيني|donne-moi
+وريني|montre-moi
+فسع|vite
+رونديفوك|rendez-vous
+شوف|regarde
+رونديفوك ستة و عشرين أفريل|rendez-vous du vingt-six avril
+رونديفو ستة و عشرين أفريل|rendez-vous du vingt-six avril
+شنوة|quoi
+شنية|quel
+الرونديفوات الكل|tous les rendez-vou
+علاش|pourquoi
+وقتاش|quand
+قداش|combien
+وين|où
+كيفاش|comment
+باش|pour
+الي|qui
+متاع|de
+نتاع|de
+تاع|de
+مع|avec
+عند|chez
+لي|à moi
+باهي|bon
+برشا|beaucoup
+توة|maintenant
+قبل|avant
+بعد|après
+صحيح|vrai
+غالط|faux
+ايه|oui
+لا|non
+اليوم|aujourd'hui
+البارح|hier
+مبارح|hier
+غدوة|demain
+بعد_غدوة|après-demain
+قبل_البارح|avant-hier
+هالشهر|ce mois
+الشهر الي_فات|le mois dernier
+الشهر الجاي|le mois prochain
+السيمانة|la semaine
+ajouter|زيدني
+ajouter|زيد
+ajouter|اجو
+زيد|ajouter
+ajouter|نزيد
+زيدني|ajoute-moi
+نزيد|j'ajoute
+زيد|ajouter
+نزيد|ajouter
+أضف|ajouter
+ضيف|ajouter
+أجوتي|ajouter
+زيدلي|ajouter
+زيد علي|ajouter
+أضفلي|ajouter
+ضيفلي|ajouter
+زود|ajouter
+prochains|الجايين
+prochains|الجايين
+الجايين|les prochains
+جايين|prochains
+prochain|الجاي
+جاي|prochain
+prochain|جاي
+يوم|jour
+شهر|mois
+عام|année
+الصباح|matin
+العشية|après-midi
+الليل|soir
+وقت|temps
+ساعة|heure
+دقيقة|minute
+الاثنين|lundi
+الثلاثاء|mardi
+الأربعاء|mercredi
+الخميس|jeudi
+الجمعة|vendredi
+السبت|samedi
+الأحد|dimanche
+جانفي|janvier
+فيفري|février
+مارس|mars
+أفريل|avril
+ماي|mai
+جوان|juin
+جويلية|juillet
+أوت|août
+سبتمبر|septembre
+أكتوبر|octobre
+نوفمبر|novembre
+ديسمبر|décembre
+ستة و عشرين|vingt-six
+طبيب|médecin
+دكتور|docteur
+مريض|patient
+مرض|maladie
+دواء|médicament
+علاج|traitement
+وصفة|ordonnance
+رانديفو|rendez-vous
+رانديفو|rendez-vous
+رونديفو|rendez-vous
+الرونديفوات|rendez-vous
+رانديفوا|rendez-vous
+زيارة|visite
+فحص|examen
+
+تحليل|analyse
+نتيجة|résultat
+أشعة|radiographie
+عملية|opération
+ألم|douleur
+وجع|douleur
+صداع|mal de tête
+حمى|fièvre
+سخانة|fièvre
+توحيشة|infection
+جرح|blessure
+دم|sang
+سكري|diabète
+ضغط|tension
+قلب|cœur
+تنفس|respiration
+صدر|poitrine
+ظهر|dos
+
+إثنين|2
+خمسة و عشرين|25
+عشرة|10
+إحدى عشر|11
+إثنا عشر|12
+ثلاثة عشر|13
+أربعة عشر|14
+خمسة عشر|15
+ستة عشر|16
+سبعة عشر|17
+ثمانية عشر|18
+تسعة عشر|19
+واحد و عشرين|21
+إثنين و عشرين|22
+ثلاثة و عشرين|23
+أربعة و عشرين|24
+خمسة و عشرين|25
+ستة و عشرين|26
+سبعة و عشرين|27
+ثمانية و عشرين|28
+تسعة و عشرين|29
+ثلاثين|30
+واحد و ثلاثين|31
+واحد|1
+إثنين|2
+ثلاثة|3
+أربعة|4
+خمسة|5
+ستة|6
+سبعة|7
+عشرين|20
+ثمانية|8
+تسعة|9
+حداش|11
+ثنين و عشرين|22
+ثنين|2
+معدة|estomac
+كرش|ventre
+عظم|os
+عضلة|muscle
+عين|œil
+سن|dent
+سنان|dents
+أدوية|médicaments
+حبوب|comprimés
+شراب|sirop
+حقنة|piqûre
+إبرة|aiguille
+ضماد|pansement
+قياس|mesure
+وزن|poids
+طول|taille
+ملف|dossier
+كارنيه|carnet
+بطاقة|carte
+تأمين|assurance
+كنام|CNAM
+مستشفى|hôpital
+عيادة|cabinet
+صيدلية|pharmacie
+موعد|rendez-vous
+مقابلة|consultation
+الإستقبال|accueil
+تسجيل|inscription
+خلاص|paiement
+فاتورة|facture
+وثيقة|document
+document|دوكيمون
+شهادة|certificat
+راحة|repos
+مدة|durée
+توقيت|horaire
+نحب|je veux
+بغيت|je veux
+نطلب|je demande
+نحتاج|j'ai besoin
+نشوف|je vois
+نسأل|je demande
+نعرف|je sais
+ننسى|j'oublie
+نتفكر|je me souviens
+نقول|je dis
+نسمع|j'entends
+نفهم|je comprends
+نعمل|je fais
+نجيب|j'apporte
+نهز|je prends
+نعطي|je donne
+نحط|je mets
+نلقى|je trouve
+نبحث|je cherche
+نكتب|j'écris
+نقرا|je lis
+قبل|avant
+بعد|après
+دورك|maintenant
+عاد|juste
+ديما|toujours
+أبدا|jamais
+برشا_مرات|souvent
+مرة_مرة|parfois
+قريب|bientôt
+بكري|tôt
+متأخر|tard
+مازال|encore
+خلاص|déjà
+كل_نهار|chaque jour
+كل_أسبوع|chaque semaine
+كل_شهر|chaque mois
+مريض|malade
+باهي|bon
+خايب|mauvais
+كبير|grand
+صغير|petit
+جديد|nouveau
+قديم|ancien
+سخون|chaud
+بارد|froid
+ثقيل|lourd
+خفيف|léger
+واضح|clair
+غامض|obscur
+صعيب|difficile
+ساهل|facile
+قوي|fort
+ضعيف|faible
+فارغ|vide
+معمر|plein
+بطيء|lent
+سريع|rapide
+متاعي|mon
+متاعك|ton
+متاعو|son
+متاعها|sa
+متاعنا|notre
+متاعكم|votre
+متاعهم|leur
+واحد|un
+زوز|deux
+ثلاثة|trois
+أربعة|quatre
+خمسة|cinq
+ستة|six
+سبعة|sept
+ثمنية|huit
+تسعة|neuf
+عشرة|dix
+حداش|onze
+طناش|douze
+ثلطاش|treize
+أربعطاش|quatorze
+خمسطاش|quinze
+سطاش|seize
+سبعطاش|dix-sept
+ثمنطاش|dix-huit
+تسعطاش|dix-neuf
+عشرين|vingt
+ثلاثين|trente
+أربعين|quarante
+خمسين|cinquante
+ستين|soixante
+سبعين|soixante-dix
+ثمانين|quatre-vingt
+تسعين|quatre-vingt-dix
+مية|cent
+ألف|mille
+في|dans
+على|sur
+تحت|sous
+قدام|devant
+ورا|derrière
+قريب_من|près de
+بعيد_على|loin de
+بين|entre
+حذا|à côté de
+حتى|jusqu'à
+و|et
+ولا|ou
+إذا|si
+لأنو|parce que
+باش|pour
+علاخاطر|car
+كيما|comme
+كان|si
+أما|mais
+خاطر|parce que
+شنوة|quoi
+علاش|pourquoi
+كيفاش|comment
+قداش|combien
+وقتاش|quand
+وين|où
+شكون|qui
+أنا|moi
+إنت|toi
+هو|lui
+هي|elle
+حنا|nous
+إنتوما|vous
+هوما|eux
+كورونا|coronavirus
+كوفيد|COVID
+فيروس|virus
+كمامة|masque
+تلقيح|vaccination
+لقاح|vaccin
+حجر_صحي|confinement
+تباعد|distanciation
+شهادة_تلقيح|pass vaccinal
+اختبار|test
+مسحة|PCR
+عسلامة|au revoir
+بالسلامة|à bientôt
+صباح_الخير|bonjour
+مساء_الخير|bonsoir
+بالليل|bonne nuit
+برشا|beaucoup
+شوية|un peu
+نرمال|normal
+كي_كيف|pareil
+ماهوش|ce n'est pas
+فمة|il y a
+مفمش|il n'y a pas
+بلكل|complètement
+أعطيني_الملف|donne-moi le dossier
+وريني_الموعد|montre-moi le rendez-vous
+شد_الدواء|prends le médicament
+جبلي_الوصفة|apporte-moi l'ordonnance
+نحب_نشوف_الطبيب|je veux voir le médecin
+عندي_ألم|j'ai mal
+عندي_موعد|j'ai un rendez-vous
+شنية_الدواء|quel est le médicament
+وقتاش_الموعد|quand est le rendez-vous
+شكون_الطبيب|qui est le médecin
+وين_الملف|où est le dossier
+قداش_وقت|combien de temps
+متاع_مريض|du patient
+مرض_قلب|maladie cardiaque
+وجع_راس|mal de tête
+وجع_معدة|mal d'estomac
+باش_ناخو_الدواء|pour prendre le médicament
+الموعد_الجاي|le prochain rendez-vous
+الدواء_هذا|ce médicament
+خذ_الدوا|prends le médicament
+شوف_التحاليل|regarde les analyses
+مواعيد|rendez-vous
+دليل|guide
+اليوم_صباح|ce matin
+حالة|état
+نحتاج_موعد|j'ai besoin d'un rendez-vous
+ردة_فعل|réaction
+حساسية|allergie
+نتائج|résultats
+محلول|solution
+رندى|rendez-vous
+دكتورة|docteure
+مريضة|patiente
+جرعة|dose
+وصفات|ordonnances
+مضاد_حيوي|antibiotique
+منوم|somnifère
+عرض|symptôme
+ضربان|battement
+سعال|toux
+كحة|toux
+عطاس|éternuement
+قشعريرة|frisson
+غثيان|nausée
+دوخة|vertige
+ضمادة|bandage
+مرهم|pommade
+قطرة|goutte
+سوائل|liquides
+تحاليل_دم|analyses de sang
+بول|urine
+براز|selles
+صورة|image
+اشاعة|radio
+اشاعة_سينية|radiographie
+رنين_مغناطيسي|IRM
+تخطيط_قلب|électrocardiogramme
+ضغط_الدم|tension artérielle
+جبيرة|plâtre
+عكاز|béquille
+كرسي_متحرك|fauteuil roulant
+حامل|enceinte
+ولادة|accouchement
+إجازة_مرضية|arrêt maladie
+لياسة|pansement
+بنج|anesthésie
+عملية_جراحية|opération chirurgicale
+موعد_تلقيح|rendez-vous de vaccination
+فحص_طبي|examen médical
+مراقبة|suivi
+عيادة_النهار|visite du jour
+الصيدلية|la pharmacie
+موصى|prescrit
+نصف|moitié
+ربع|quart
+جرعة_يومية|dose quotidienne
+قبل_الأكل|avant repas
+بعد_الأكل|après repas
+مع_الماء|avec eau
+أنبوب|tube
+علبة|boîte
+شريط|plaquette
+دهن|application
+غسل|lavage
+تدليك|massage
+نتيجة_سلبية|résultat négatif
+نتيجة_إيجابية|résultat positif
+طبيب_الأسنان|dentiste
+أخصائي|spécialiste
+ممرض|infirmier
+ممرضة|infirmière
+صيدلي|pharmacien
+إسعاف|ambulance
+رانديفوا|rendez-vous
+الجاية|prochain
+رونديفوك|rendez-vous
+رونديفوات|rendez-vous
+رنديفو|rendez-vous
+إثنين|2
+خمسة و عشرين|25
+عشرة|10
+إحدى عشر|11
+إثنا عشر|12
+ثلاثة عشر|13
+أربعة عشر|14
+خمسة عشر|15
+ستة عشر|16
+سبعة عشر|17
+ثمانية عشر|18
+تسعة عشر|19
+عشرين|20
+واحد و عشرين|21
+إثنين و عشرين|22
+ثلاثة و عشرين|23
+أربعة و عشرين|24
+خمسة و عشرين|25
+ستة و عشرين|26
+سبعة و عشرين|27
+ثمانية و عشرين|28
+تسعة و عشرين|29
+ثلاثين|30
+واحد و ثلاثين|31
+واحد|1
+إثنين|2
+ثلاثة|3
+أربعة|4
+خمسة|5
+ستة|6
+سبعة|7
+ثمانية|8
+تسعة|9
+حداش|11
+ثنين و عشرين|22
+ثنين|2
+طوارئ|urgences
+موعد_عاجل|rendez-vous urgent
+حالة_طارئة|cas d'urgence
+آلة|appareil
+قياس_السكر|mesure de glycémie
+السكر|sucre
+أنسولين|insuline
+قلم_أنسولين|stylo d'insuline
+كمادات|compresses
+رضوض|contusions
+كسر|fracture
+خلع|entorse
+جروح|blessures
+سكتة|AVC
+نوبة_قلبية|crise cardiaque
+طلب_سابق|demande précédente
+عقد_جديد|nouveau contrat
+استشارة|consultation
+توصية|recommandation
+متابعة|suivi
+مرضية|pathologique
+سرطان|cancer
+عدوى|infection
+التهاب|inflammation
+حكة|démangeaison
+طفح_جلدي|éruption cutanée
+احمرار|rougeur
+تورم|gonflement
+إغماء|évanouissement
+دوار|vertige
+فقر_الدم|anémie
+fichier|في شان
+الجاي|prochain
+دوسيات|dossier
+دوشي|dossier
+دوسي|dossier
+دوزييم|dossier
+دوسي تونسي|dossier
+دوسيات|dossier
+الرنديفو|rendez-vous
+دوشي|dossier
+دوسي|dossier
+دوزييم|dossier
+دوسي تونسي|dossier
+دوسيات|dossier
+مريض|patient
+المريض|patient
+مريضة|patiente
+المريضة|patiente
+مرضى|patients
+باسيان|patient
+مريضين|patients
+دوا|médicament
+دواء|médicament
+الدواء|médicament
+أدوية|médicaments
+وردونانس|ordonnance
+وصفة|ordonnance
+الوصفة|ordonnance
+صفة|ordonnance
+اليوم|aujourd'hui
+غدوة|demain
+مبارح|hier
+لباراح|hier
+البارح|hier
+الاسبوع|la semaine
+الشهر|le mois
+هالشهر|ce mois
+الشهر الجاي|le mois prochain
+الشهر اللي فات|le mois dernier
+اعطيني|donne-moi
+أعطيني|donne-moi
+عطيني|donne-moi
+وريني|montre-moi
+اوريني|montre-moi
+شوف|regarde
+شوفلي|regarde-moi
+فما|il y a
+مفماش|il n'y a pas
+جيب|apporte
+جيبلي|apporte-moi
+زيد|ajoute
+زيدني|ajoute-moi
+شنوة|quoi
+شنية|quel
+علاش|pourquoi
+وقتاش|quand
+قداش|combien
+وين|où
+كيفاش|comment
+شكون|qui
+طبيب|médecin
+الطبيب|le médecin
+دكتور|docteur
+الدكتور|le docteur
+ممرض|infirmier
+ممرضة|infirmière
+صيدلي|pharmacien
+اللي|qui
+باش|pour
+متاع|de
+نتاع|de
+تاع|de
+نحب|je veux
+نحتاج|j'ai besoin
+عندي|j'ai
+فما عندي|j'ai
+باهي|bon
+خايب|mauvais
+برشا|beaucoup
+شوية|un peu
+مريض|patient
+باسيان|patient
+مريظ|patient
+المريض|patient
+مريضا|patient
+باتيان|patient
+باسيون|patient
+باتيانت|patient
+مارض|patient
+مارد|patient
+دوا|médicament
+دواء|médicament
+ميديكامان|médicament
+ميديكامو|médicament
+دواية|médicament
+ميدسين|médicament
+دويا|médicament
+ادوية|médicament
+الدوا|médicament
+علاج|médicament
+وصفة|ordonnance
+أوردونانس|ordonnance
+اوردونس|ordonnance
+وصفة طبية|ordonnance
+وصف|ordonnance
+ورقة الدوا|ordonnance
+اوردوننس|ordonnance
+وردونس|ordonnance
+رسيت|ordonnance
+بابي|ordonnance
+طبيب|médecin
+دكتور|médecin
+طبيبة|médecin
+الطبيب|médecin
+ميدسان|médecin
+دكتر|médecin
+طبب|médecin
+دوكتور|médecin
+طب|médecin
+دكطر|médecin
+لوك|chercher
+شرشي|chercher
+نبحث|chercher
+ابحث|chercher
+نلوك|chercher
+بحث|chercher
+فتش|chercher
+نفتش|chercher
+لقى|chercher
+نلقى|chercher
+اليوم|aujourd'hui
+ليوم|aujourd'hui
+توا|aujourd'hui
+تو|aujourd'hui
+اجوردوي|aujourd'hui
+لوم|aujourd'hui
+اليم|aujourd'hui
+يوم|aujourd'hui
+اليوما|aujourd'hui
+هليوم|aujourd'hui
+غدوة|demain
+غدوا|demain
+غودوا|demain
+غدة|demain
+دومان|demain
+غدو|demain
+بكرة|demain
+بكرا|demain
+الغد|demain
+غاد|demain
+كنسلتاسيون|consultations
+كونسلتاسيون|consultations
+كنسولتاسيون|consultations
+مقابلات|consultations
+كونسولت|consultations
+زيارات|consultations
+استشارات|consultations
+فيزيت|consultations
+فحوصات|consultations
+كونسولتاسيون|consultations
+فيش|fiches
+فيشات|fiches
+باطاقات|fiches
+بطاقات|fiches
+فيشة|fiches
+ورقات|fiches
+بطاقة|fiches
+الملفات الصغيرة|fiches
+وريقات|fiches
+كارت|fiches
+كنسلتاسيون|consultations
+كونسلتاسيون|consultations
+كنسولتاسيون|consultations
+مقابلات|consultations
+كونسولت|consultations
+زيارات|consultations
+استشارات|consultations
+فيزيت|consultations
+فحوصات|consultations
+كونسولتاسيون|consultations
+تحاليل|analyses
+اناليز|analyses
+تحليلات|analyses
+اناليس|analyses
+أناليز|analyses
+فحوصات|analyses
+النليز|analyses
+اتحاليل|analyses
+التحاليل|analyses
+فحص|analyses
+صورة|image
+ايماج|image
+التصويرة|image
+صورا|image
+ايميج|image
+صوره|image
+تصويرة|image
+تصويرا|image
+صويرة|image
+اماج|image
+بيلان|bilans
+حسابات|bilans
+النتائج|bilans
+بيلانات|bilans
+حساب|bilans
+نتيجة|bilans
+بيلا|bilans
+الحساب|bilans
+البيلان|bilans
+كومبت|bilans
+الرونديفو|rendez-vous
+كونسيلتاسيون|consultation
+الموعد|rendez-vous
+الدوسي|dossier
+شعر|mois
+نهار|jour
+رانديفوا|rendez-vous
+الجاية|prochain
+رونديفوك|rendez-vous
+رونديفوات|rendez-vous
+رنديفو|rendez-vous
